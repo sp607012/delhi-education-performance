@@ -52,8 +52,8 @@ delhi-education-performance/
 ├── sql/
 │ └── education_script.sql
 ├── dashboard/
-│ ├── page1.jpg
-│ └── page2.jpg
+│ ├── dashboard1.jpg
+│ └── dashboard2.jpg
 ---
 
 ## Methodology
