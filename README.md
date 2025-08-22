@@ -51,9 +51,10 @@ delhi-education-performance/
 │ └── project_portfolio.ipynb
 ├── sql/
 │ └── education_script.sql
-├── dashboard/
-│ ├── dashboard1.jpg
-│ └── dashboard2.jpg
+├── delhi-education-performance/
+├── pbix-file/
+│   └── education_performance_dashboard.pbix
+
 ---
 
 ## Methodology
@@ -77,10 +78,10 @@ delhi-education-performance/
 
 ## Dashboards
 
-![Sample dashboard](dashboard/page1.jpg)
-![Sample dashboard](dashboard/page2.jpg)
+[Download Power BI Dashboard File](pbix-file/education_performance_dashboard.pbix)
 
----
+*Open this file in Power BI Desktop to explore the interactive dashboards.*
+
 
 ## How to Run This Project
 
