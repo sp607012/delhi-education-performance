@@ -77,8 +77,8 @@ delhi-education-performance/
 
 ## Dashboards
 
-![Sample dashboard](dashboard/dashboard1.jpg)
-![Sample dashboard](dashboard/dashboard2.jpg)
+![Sample dashboard](dashboard/page1.jpg)
+![Sample dashboard](dashboard/page2.jpg)
 
 ---
 
